@@ -3,8 +3,8 @@
 # Author:           孙士标
 ##########################################
 
-from lib.qrgenerator import generate
-from lib.qrscanner import scan
+from qrgenerator import generate
+from qrscanner import scan
 
 if __name__ == '__main__':
     import sys
