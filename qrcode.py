@@ -1,6 +1,6 @@
 ##########################################
 # File:             util.py
-# Author:           孙士标
+# Author:            孙士标
 ##########################################
 
 from qrgenerator import generate
